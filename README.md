@@ -1,10 +1,18 @@
 # 🚀 modelrelay
 
+> [!IMPORTANT]
+> **Archived on October 1, 2026. This project is no longer maintained.** No further updates, bug fixes, security patches, or support will be provided. Thank you to everyone who used modelrelay, contributed, shared feedback, and supported the project.
+>
+> As a courtesy, we are sharing a link to an independent fork: [gschaetz/modelrelay](https://github.com/gschaetz/modelrelay).
+>
+> We have no affiliation with or involvement in this fork. We have not reviewed or vetted it and will not review, vet, or monitor it in the future. This link is provided for information only and is not an endorsement or recommendation. We make no warranties and accept no responsibility or liability for the fork, its code, security, releases, or any loss or damage resulting from its use. Use it at your own risk.
+
 [![npm version](https://img.shields.io/npm/v/modelrelay?color=green&style=flat-square)](https://npmjs.com/package/modelrelay)
 [![GitHub stars](https://img.shields.io/github/stars/ellipticmarketing/modelrelay?style=flat-square)](https://github.com/ellipticmarketing/modelrelay/stargazers)
-[![Join Discord](https://img.shields.io/badge/Join_Discord-5865F2?style=flat-square&logo=discord)](https://discord.gg/AqX6Sawq5w)
 
-[**Join our Discord**](https://discord.gg/AqX6Sawq5w) for discussions, feature requests, and community support.
+## Historical documentation
+
+The documentation below is preserved for reference. Model availability, provider terms, pricing, and compatibility may have changed and will no longer be checked or updated.
 
 <div align="center">
   <img src="docs/assets/dashboard.png" alt="ModelRelay Dashboard" width="100%">
